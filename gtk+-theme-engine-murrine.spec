@@ -1,7 +1,7 @@
 Summary:	murrine theme
 Name:		gtk+-theme-engine-murrine
 Version:	0.98.1.1
-Release:	3
+Release:	4
 License:	GPL
 Group:		Themes/GTK+
 Source0:	http://ftp.gnome.org/pub/GNOME/sources/murrine/0.98/murrine-%{version}.tar.bz2
